@@ -31,9 +31,9 @@ echo " "
 #To change master username and password of the server
 
 #Enter your server id, new username, new password here
-server_id='Your_Server_Id_Here'
-new_usrname='Your_New_Master_User_Name_Here'
-new_passwd='Your_New_Master_Password_Here'
+server_id='Your_Server_Id_Goes_Here'
+new_usrname='Your_New_Master_User_Name_Goes_Here'
+new_passwd='Your_New_Master_Password_Goes_Here'
 
 #This request will change master username
 echo "Changing Master User Name"
