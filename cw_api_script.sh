@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #Enter your Email id and API key here
-email_id='Your_Email_Id_Here'
-api_key='Your_API_Key_Here'
+email_id='Your_Email_Id_Goes_Here'
+api_key='Your_API_Key_Goes_Here'
 
 #Authentication API URL
 OAuth_API='https://api.cloudways.com/api/v1/oauth/access_token'
